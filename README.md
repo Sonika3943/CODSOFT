@@ -1,5 +1,6 @@
 # CODSOFT
-1.	Random Password Generator
+# 1.	Random Password Generator
+
 A simple and secure Python-based command-line tool to generate random passwords of customizable length.
 
 =>Features
@@ -23,7 +24,8 @@ Enter the number of passwords to generate here: 3
 2nd Password:  Zx9@Lm2#Qw8&
 3rd Password:  Nn7*Jk4%Rt6(
  
-2. Simple Calculator in Python
+#2. Simple Calculator in Python
+
 This is a beginner-friendly command-line calculator built with Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 =>Features
@@ -48,7 +50,8 @@ Solution: 2.0
 •	Displays a message for unsupported operations
 
  
-3.✊📄✂️ Rock, Paper, Scissors – Python GUI Game
+# 3.✊📄✂️ Rock, Paper, Scissors – Python GUI Game
+
 A fun and interactive Rock, Paper, Scissors game built using Python's tkinter library. This GUI-based game allows players to play against the computer while keeping track of scores.
 
 =>Features

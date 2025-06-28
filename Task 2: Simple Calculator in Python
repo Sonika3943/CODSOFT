@@ -1,6 +1,7 @@
 #simple calculator with python
 
 print("Welcome to the calculator!!")
+
 #entering the first value
 num1=float(input("enter the first number:"))
 

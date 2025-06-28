@@ -1,0 +1,26 @@
+#simple calculator with python
+
+print("Welcome to the calculator!!")
+#entering the first value
+num1=float(input("enter the first number:"))
+
+#entering the second value
+num2=float(input("enter the second number:"))
+
+#entering the operation
+operation=input("Enter operation you want to perform(+,-,*,/):")
+
+#using conditionals for operation
+if operation=='+':
+    print("Soluton:",num1+num2)
+elif operation=="-":
+    print("Soluton:",num1-num2)
+elif operation=="*":
+    print("Soluton:",num1*num2)
+elif operation=="/":
+    if num2!=0:
+     print("Soluton:",num1/num2)
+    else:
+        print("cannot be divided by 0:")
+else:
+    print("Cannot execute Operation!!")

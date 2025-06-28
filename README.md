@@ -24,7 +24,7 @@ Enter the number of passwords to generate here: 3
 2nd Password:  Zx9@Lm2#Qw8&
 3rd Password:  Nn7*Jk4%Rt6(
  
-#2. Simple Calculator in Python
+# 2. Simple Calculator in Python
 
 This is a beginner-friendly command-line calculator built with Python. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
